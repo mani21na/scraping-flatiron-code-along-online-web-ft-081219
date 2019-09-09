@@ -17,7 +17,7 @@ class Scraper
   end
   
   def get_page
-    
+    html = open("http://flatironschool.com/")
   end
   
 end
